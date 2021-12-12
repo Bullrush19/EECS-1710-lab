@@ -4,7 +4,7 @@ required files:
 
 (Located in data folder)
 -octo.png
--underwater.png
+-underwater.jpg
 -Do1.mp3
 -Do2.mp3
 -re.mp3
